@@ -25,6 +25,7 @@ Home Screen > View all Customers> Select and View one Customer> Transfer Money> 
 
 # List of Transaction
 All transactions - can be check from home Screen
+
 For Individual User - can be checked from View users
 
 ![Screenshot_1620654972](https://user-images.githubusercontent.com/43778303/117672374-69688d80-b1c7-11eb-8d26-4e44840ec530.png)
