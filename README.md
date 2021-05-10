@@ -9,7 +9,7 @@ Flow of App:
 Home Screen > View all Customers> Select and View one Customer> Transfer Money> Select customer to transfer to > View all Customers
 
 # Home Screen
-![Screenshot_1620654895](https://user-images.githubusercontent.com/43778303/117672231-463dde00-b1c7-11eb-9824-52db999823a9.png)
+![Screenshot_1620656647](https://user-images.githubusercontent.com/43778303/117675135-f0b70080-b1c9-11eb-9175-813b5228071f.png)
 
 # Users Screen
 ![Screenshot_1620654906](https://user-images.githubusercontent.com/43778303/117672267-4fc74600-b1c7-11eb-8d81-d1525ebecb06.png)
