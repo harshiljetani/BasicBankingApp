@@ -2,6 +2,7 @@
 Sparks Foundation Internship Project
 
 This is Basic Banking App project based on SQLite Database.
+By default, the Database contains 10 dummy users and some random account balance for each of the user.
 
 
 Flow of App:
